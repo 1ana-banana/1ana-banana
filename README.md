@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anastasia</h1>
+<h1 align="center">Hi 👋, I'm Anastasia 🏍</h1>
 <h3 align="center">A hardworking frontend developer from Brooklyn, New York!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1ana-banana&label=Profile%20views&color=0e75b6&style=flat" alt="1ana-banana" /> </p>
