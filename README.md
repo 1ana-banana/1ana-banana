@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js, C#**
 
-- 👯 Let's talk about [careers.](https://www.linkedin.com/in/jungyeonhan/)
+- 👯 Let's talk about [careers.](https://www.linkedin.com/in/anastasiahan/)
 
 - 🤝 I’m looking for help with **TBD**
 
